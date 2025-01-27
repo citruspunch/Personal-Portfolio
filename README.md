@@ -36,9 +36,3 @@ This repository contains the code for my personal portfolio, built using HTML an
   - Name
   - Email
   - Message
-
-## Setup Instructions
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/portfolio.git
